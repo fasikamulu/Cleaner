@@ -1,2 +1,2 @@
 # Cleaner
-python script to clean unwanted advert emails.
+python script to clean and unsubscribe unwanted advert emails.
